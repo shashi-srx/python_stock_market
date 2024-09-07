@@ -1,1 +1,2 @@
-# python_stock_market
+# minor
+ stock market analysis
